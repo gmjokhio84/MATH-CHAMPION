@@ -1,0 +1,8 @@
+{
+  "name": "MATH CHAMPIONS",
+  "description": "Play • Learn • Practice • Master Maths — Interactive Primary School Mathematics Learning & Games App for Grades 1 to 5 by G. MUSTAFA JOKHIO and TEAM J.E.F.M.S UMERKOT. CONTACT: 03152856864",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
